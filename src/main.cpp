@@ -22,7 +22,7 @@
 #include <cstdlib>
 #include <mpi.h>
 #include <new>
-
+#include <iostream>
 // import MolSSI Driver Interface library
 #if defined(LMP_MDI)
 #include <mdi.h>
